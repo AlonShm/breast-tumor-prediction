@@ -1,6 +1,6 @@
 ,0
 id,int64
-diagnosis,object
+diagnosis,int64
 radius_mean,float64
 texture_mean,float64
 perimeter_mean,float64
